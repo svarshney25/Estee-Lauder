@@ -34,7 +34,7 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="MAJOR EYE IMPACT" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Jh9-fA-saA">
-                                <rect key="frame" x="0.0" y="92" width="419" height="57"/>
+                                <rect key="frame" x="0.0" y="84" width="419" height="57"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="textColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="37"/>
