@@ -196,26 +196,15 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Fast visible repair and youth-generating power." textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Blq-us-Jeg">
-                                <rect key="frame" x="31" y="509" width="353" height="77"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <color key="textColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
-                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="25"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                            </textView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="ADVANCED NIGHT REPAIR SERUM" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0QO-ma-QdU">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="THE DOUBLEWEAR COLLECTION" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0QO-ma-QdU">
                                 <rect key="frame" x="31" y="85" width="353" height="154"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="textColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <fontDescription key="fontDescription" name="Palatino-Bold" family="Palatino" pointSize="33"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="7" translatesAutoresizingMaskIntoConstraints="NO" id="0P7-UX-D8b">
-                                <rect key="frame" x="43" y="187" width="328" height="306"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="1xu-nZ-y0J">
-                                <rect key="frame" x="218" y="596" width="86" height="31"/>
+                                <rect key="frame" x="218" y="589" width="86" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.91372549530000002" green="0.60000002379999995" blue="0.55294120309999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <state key="normal" title="Button"/>
@@ -225,7 +214,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="eal-D5-2p8">
-                                <rect key="frame" x="109" y="596" width="86" height="31"/>
+                                <rect key="frame" x="109" y="589" width="86" height="31"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="tintColor" red="0.91372549530000002" green="0.60000002379999995" blue="0.55294120309999995" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <state key="normal" title="Button"/>
@@ -235,7 +224,7 @@
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="P51-tF-ykJ">
-                                <rect key="frame" x="140" y="646" width="134" height="48"/>
+                                <rect key="frame" x="140" y="637" width="134" height="48"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <color key="tintColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -254,20 +243,20 @@
                                 <color key="backgroundColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <color key="tintColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="America's #1 Serum">
+                                <buttonConfiguration key="configuration" style="filled" title="24-hour wear">
                                     <fontDescription key="titleFontDescription" name="KohinoorDevanagari-Regular" family="Kohinoor Devanagari" pointSize="23"/>
                                     <color key="baseBackgroundColor" red="0.63137257099999999" green="0.58039218189999997" blue="0.58039218189999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </buttonConfiguration>
                             </button>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="Added to Bag!" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="1Tf-Nk-Hcf">
-                                <rect key="frame" x="140" y="702" width="136" height="27"/>
+                                <rect key="frame" x="140" y="698" width="136" height="27"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="22"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" text="1" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3jc-eB-fOX">
-                                <rect key="frame" x="178" y="595" width="58" height="33"/>
+                                <rect key="frame" x="178" y="588" width="58" height="33"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <color key="tintColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -275,6 +264,17 @@
                                 <nil key="textColor"/>
                                 <color key="highlightedColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                             </label>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2022-07-31 at 10.11.10 AM" translatesAutoresizingMaskIntoConstraints="NO" id="st3-5w-TA8">
+                                <rect key="frame" x="49" y="186" width="316" height="306"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Oil-free, waterproof foundation." textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Blq-us-Jeg">
+                                <rect key="frame" x="32" y="500" width="353" height="77"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <color key="textColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
+                                <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="25"/>
+                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
+                            </textView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="172-d3-YfG"/>
                         <color key="backgroundColor" red="0.97254908080000002" green="0.94509804249999996" blue="0.94117647410000005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -287,7 +287,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="vJD-wT-HPg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2297.1014492753625" y="-176.11607142857142"/>
+            <point key="canvasLocation" x="-2365.217391304348" y="533.70535714285711"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="tFH-iY-lDm">
@@ -308,7 +308,7 @@
                                     <color key="baseBackgroundColor" red="0.96078431610000004" green="0.86666667460000002" blue="0.85490196939999996" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <segue destination="20J-IJ-egb" kind="show" id="DMi-L7-EOQ"/>
+                                    <segue destination="Pbd-iz-4hP" kind="show" id="ftv-dl-PMX"/>
                                 </connections>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7lc-Ju-HdJ">
@@ -322,7 +322,7 @@
                                     <color key="baseBackgroundColor" red="0.92941176889999999" green="0.69803923369999998" blue="0.66274511810000003" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </buttonConfiguration>
                                 <connections>
-                                    <segue destination="Pbd-iz-4hP" kind="show" id="vMb-qZ-yTo"/>
+                                    <segue destination="20J-IJ-egb" kind="show" id="T9i-Kp-QIb"/>
                                 </connections>
                             </button>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="makeup" translatesAutoresizingMaskIntoConstraints="NO" id="PqP-1W-mP1">
@@ -409,7 +409,7 @@
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="ESTEE LAUDER'S DOUBLEWEAR COLLECTION" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0fJ-kP-4yq">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="ESTEE LAUDER'S NIGHT REPAIR COLLECTION" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0fJ-kP-4yq">
                                 <rect key="frame" x="-2" y="38" width="419" height="154"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="textColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -427,14 +427,6 @@
                                     <color key="baseBackgroundColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </buttonConfiguration>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2022-07-31 at 10.11.10 AM" translatesAutoresizingMaskIntoConstraints="NO" id="st3-5w-TA8">
-                                <rect key="frame" x="6" y="195" width="190" height="230"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="Screen Shot 2022-07-31 at 10.07.15 AM" translatesAutoresizingMaskIntoConstraints="NO" id="hh7-3v-ixG">
-                                <rect key="frame" x="197" y="172" width="210" height="276"/>
-                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                            </imageView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" text="Wear confidence." textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="p8I-Ym-Na5">
                                 <rect key="frame" x="31" y="414" width="353" height="77"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
@@ -443,18 +435,18 @@
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="PHo-sX-97y">
-                                <rect key="frame" x="-31" y="742" width="476" height="48"/>
+                                <rect key="frame" x="-31" y="746" width="476" height="48"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <color key="tintColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <state key="normal" title="Button"/>
-                                <buttonConfiguration key="configuration" style="filled" title="24-hour wear">
+                                <buttonConfiguration key="configuration" style="filled" title="America's #1 Serum">
                                     <fontDescription key="titleFontDescription" name="KohinoorDevanagari-Regular" family="Kohinoor Devanagari" pointSize="23"/>
                                     <color key="baseBackgroundColor" red="0.63137257099999999" green="0.58039218189999997" blue="0.58039218189999997" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </buttonConfiguration>
                             </button>
                             <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="9xU-2b-Z2p">
-                                <rect key="frame" x="140" y="669" width="134" height="48"/>
+                                <rect key="frame" x="140" y="685" width="134" height="48"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                 <color key="backgroundColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <color key="tintColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -464,14 +456,22 @@
                                     <color key="baseBackgroundColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 </buttonConfiguration>
                             </button>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vXF-gp-zR7">
-                                <rect key="frame" x="31" y="481" width="353" height="167.5"/>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="7" translatesAutoresizingMaskIntoConstraints="NO" id="0P7-UX-D8b">
+                                <rect key="frame" x="13" y="212" width="191" height="194"/>
                                 <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
-                                <string key="text">Double Wear makeup looks flawless no matter what. Our products unify uneven skintone and cover imperfections. Apply once and don't think twice.</string>
+                            </imageView>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" fixedFrame="YES" editable="NO" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="vXF-gp-zR7">
+                                <rect key="frame" x="16" y="478" width="383" height="198"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                                <string key="text">The Advanced Night Repair Products make you look flawless no matter what. Our products reduce the looks of aging and make your skin smoother. Apply once and don't think twice.</string>
                                 <color key="textColor" red="0.39607840779999998" green="0.35294118520000001" blue="0.3686274886" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
                                 <fontDescription key="fontDescription" name="Optima-Regular" family="Optima" pointSize="25"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
+                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" fixedFrame="YES" image="3" translatesAutoresizingMaskIntoConstraints="NO" id="hh7-3v-ixG">
+                                <rect key="frame" x="212" y="189" width="187" height="245"/>
+                                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                            </imageView>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="dng-LV-lH0"/>
                         <color key="backgroundColor" red="0.97254908080000002" green="0.94509804249999996" blue="0.94117647410000005" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -480,7 +480,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="xhV-yx-ndl" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="-2259.4202898550725" y="490.84821428571428"/>
+            <point key="canvasLocation" x="-2255.072463768116" y="-185.49107142857142"/>
         </scene>
         <!--View Controller-->
         <scene sceneID="5iF-cI-ful">
@@ -608,10 +608,10 @@
     </scenes>
     <resources>
         <image name="0" width="3000" height="3000"/>
+        <image name="3" width="4500" height="4500"/>
         <image name="7" width="4500" height="4500"/>
         <image name="Estee-Lauder-Logo-Font" width="400" height="250"/>
         <image name="Screen Shot 2022-07-30 at 4.42.27 PM" width="1072" height="900"/>
-        <image name="Screen Shot 2022-07-31 at 10.07.15 AM" width="904" height="816"/>
         <image name="Screen Shot 2022-07-31 at 10.11.10 AM" width="1084" height="1088"/>
         <image name="Screen Shot 2022-08-02 at 12.07.48 PM" width="1054" height="1198"/>
         <image name="Screen Shot 2022-08-03 at 11.15.12 AM-removebg-preview" width="634" height="394"/>
